@@ -49,6 +49,6 @@
    );
   
    // create root using createRoot
-   const root = ReactDOM.createRoot(document.getElementById("root"));
+   const root = ReactDOM.createRoot(document.getElementById("root")); 
    // passing react element inside root
    root.render(container);

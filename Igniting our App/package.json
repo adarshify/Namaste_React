@@ -1,0 +1,23 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarshify/Namaste_React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarshify/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/adarshify/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
