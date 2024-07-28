@@ -1,4 +1,5 @@
-
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 
   // const heading = React.createElement("h1", {}, "Hello World from React");
 
@@ -19,7 +20,7 @@
  // root.appendChild(heading);
 
 // Manipulate the HTML DOM using React
-
+    
 // Create nested React Elements
  const heading = React.createElement(
     "h1",
